@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: "Times New Roman", serif;
+    background-color: white;
+}
+nav {
+    background-color: #1f80b957;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+nav a {
+    color: rgba(49, 49, 137, 0.759); /* default link look, as in the screenshot */
+}
+.container {
+    width: 420px;
+    margin: 52px auto;
+    padding: 20px;
+    background-color: lightgray;
+    border: 2px solid black;
+    text-align: center;
+}
+h1 {
+    color: darkblue;
+    font-size: 32px;
+}
+ 
+h2 {
+    color: rgba(145, 15, 200, 0.991);
+    font-size: 24px;
+}
+ 
+.student-photo {
+    border: 3px solid black;
+    width: 130px;
+    height: 88px;
+}
+ 
+ul {
+    text-align: left;
+    width: 60%;
+    margin: 0 auto;
+    }
+ 
+.container a {
+    color: blue;
+    font-size: 18px;
+}
+
+
